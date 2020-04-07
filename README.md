@@ -5,7 +5,7 @@ A simple browser-based chat application in .NET Core.
 
 ### Prerequisites
 * Visual Studio IDE.
-* Microsoft .NET Core.
+* .NET Core.
 * SQL Server.
 
 ### Dependencies
