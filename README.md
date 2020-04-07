@@ -32,8 +32,8 @@ A simple browser-based chat application in .NET Core.
 	- Download git repository
 	- Open Solution
 - Create Local Database
-	- Open the Package Manager Console
 	- Set the .DataAccess project as the Default project 
+	- Open the Package Manager Console
 	- Run the command "Add-Migration Initial"
 	- Run the command "Update-Database"
 - Create Debug Profile 
