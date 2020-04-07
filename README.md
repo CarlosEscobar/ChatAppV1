@@ -43,7 +43,7 @@ A simple browser-based chat application in .NET Core.
 	- Select the Profile called ChatAppV1
 	- Select the Project option for Launch
 	- Launch a browser to Views/login.html
-	- Set the App URL
+	- Set the App URL to http://localhost:5000
 - Run your application
 
 ## Authors
