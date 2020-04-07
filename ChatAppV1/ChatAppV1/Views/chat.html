@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Chat App</title>
+
+    <link rel="stylesheet" href="../css/chat.css">
+
+    <script type="text/javascript" src="../include/WebSocketManager.js"></script>
+    <script type="text/javascript" src="../include/jquery-3.4.1.js"></script>
+    <script type="text/javascript" src="../js/routes.js"></script>
+    <script type="text/javascript" src="../js/chat.js"></script>
+</head>
+<body>
+
+    <div>
+        <button onclick="doLogout()">Logout</button>
+        <label class="chat-user" id="chatUser"></label>
+    </div>
+
+    <br />
+
+    <h1> Chat Page </h1>
+
+    <br />
+
+    <div id="messages" class="chat-area"></div>
+    <input type="text" id="chatMessage" />
+
+</body>
+</html>
